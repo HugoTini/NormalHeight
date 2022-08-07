@@ -1,5 +1,7 @@
 ![banner](banner.jpg)
 
+***⚠ NormalHeight has merged into [DeepBump](https://github.com/HugoTini/DeepBump), please use [DeepBump](https://github.com/HugoTini/DeepBump) instead. ⚠***
+
 # NormalHeight
  
 NormalHeight is a Blender add-on to compute depth from normal maps. 
